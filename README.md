@@ -1,8 +1,8 @@
 (In progress, this should be removed when project working)
 
 Requirements : 
-PANTHER tree data 
-TreeGrafter Results output
+PANTHER tree data \n
+TreeGrafter Results output \n
 Species List (short names or ncbi taxon ids)
 
 This project is designed to make use of the results from TreeGrafter (https://github.com/pantherdb/TreeGrafter). TreeGrafter when provided with protein information determines the PANTHER phylogenetic gene tree and the location in that tree at which a given protein best fits. 
