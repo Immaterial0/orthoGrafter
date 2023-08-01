@@ -4,7 +4,7 @@ Requirements :
 
 PANTHER tree data
 
-TreeGrafter Results output \n
+TreeGrafter Results output
 
 Species List (short names or ncbi taxon ids)
 
