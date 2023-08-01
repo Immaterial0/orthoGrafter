@@ -1,0 +1,260 @@
+,name,shortname,id,parentid
+1,Homo sapiens,HUMAN,9606,100000000001
+2,Pan troglodytes,PANTR,9598,100000000001
+3,Homo-Pan,,100000000001,207598
+4,Gorilla gorilla gorilla,GORGO,9595,207598
+5,Homininae,,207598,9526
+6,Macaca mulatta,MACMU,9544,9526
+7,Mus musculus,MOUSE,10090,39107
+8,Rattus norvegicus,RAT,10116,39107
+9,Catarrhini,,9526,314146
+10,Murinae,,39107,314146
+11,Bos taurus,BOVIN,9913,91561
+12,Sus scrofa,PIG,9823,91561
+13,Artiodactyla,,91561,9787
+14,Equus caballus,HORSE,9796,9787
+15,Felis catus,FELCA,9685,33554
+16,Canis lupus familiaris,CANLF,9615,33554
+17,Perissodactyla,,9787,314145
+18,Carnivora,,33554,314145
+19,Euarchontoglires,,314146,9347
+20,Laurasiatheria,,314145,9347
+21,Eutheria,,9347,32525
+22,Monodelphis domestica,MONDO,13616,32525
+23,Theria,,32525,40674
+24,Ornithorhynchus anatinus,ORNAN,9258,40674
+25,Gallus gallus,CHICK,9031,32561
+26,Anolis carolinensis,ANOCA,28377,32561
+27,Mammalia,,40674,32524
+28,Sauria,,32561,32524
+29,Amniota,,32524,32523
+30,Xenopus tropicalis,XENTR,8364,32523
+31,Oryzias latipes,ORYLA,8090,32443
+32,Danio rerio,DANRE,7955,32443
+33,Teleostei,,32443,41665
+34,lepisosteus oculatus,LEPOC,7918,41665
+35,Tetrapoda,,32523,117571
+36,Neopterygii,,41665,117571
+37,Euteleostomi,,117571,100000000002
+38,Ciona intestinalis,CIOIN,7719,100000000002
+39,Craniata-Tunicata,,100000000002,7711
+40,Branchiostoma floridae,BRAFL,7739,7711
+41,Chordata,,7711,33511
+42,Strongylocentrotus purpuratus,STRPU,7668,33511
+43,Caenorhabditis elegans,CAEEL,6239,6237
+44,Caenorhabditis briggsae,CAEBR,6238,6237
+45,Caenorhabditis,,6237,6231
+46,Pristionchus pacificus,PRIPA,54126,6231
+47,Drosophila melanogaster,DROME,7227,7147
+48,Anopheles gambiae,ANOGA,7165,7147
+49,Diptera,,7147,33392
+50,Tribolium castaneum,TRICA,7070,33392
+51,Endopterygota,,33392,100000000003
+52,Daphnia pulex,DAPPU,6669,100000000003
+53,Hexapoda-Crustacea,,100000000003,6656
+54,Ixodes scapularis,IXOSC,6945,6656
+55,Rhabditida-Chromadorea,,6231,1206794
+56,Arthropoda,,6656,1206794
+57,Ecdysozoa,,1206794,33317
+58,helobdella robusta,HELRO,6412,33317
+59,Deuterostomia,,33511,33213
+60,Protostomia,,33317,33213
+61,Bilateria,,33213,6072
+62,Nematostella vectensis,NEMVE,45351,6072
+63,Trichoplax adhaerens,TRIAD,10228,6072
+64,Eumetazoa,,6072,100000000007
+65,Monosiga brevicollis,MONBE,81824,100000000007
+66,Saccharomyces cerevisiae,YEAST,559292,4893
+67,Ashbya gossypii,ASHGO,284811,4893
+68,Saccharomycetaceae,,4893,4892
+69,Candida albicans,CANAL,237561,4892
+70,Saccharomycetaceae-Candida,,0,4892
+71,Yarrowia lipolytica,YARLI,284591,4892
+72,Emericella nidulans,EMENI,227321,5052
+73,Neosartorya fumigata,ASPFU,330879,5052
+74,Neurospora crassa,NEUCR,367110,715989
+75,Sclerotinia sclerotiorum,SCLS1,665079,715989
+76,Sordariomyceta,,715989,100000000005
+77,Phaeosphaeria nodorum,PHANO,321614,100000000005
+78,Aspergillus,,5052,147538
+79,Sordariomycetes-Leotiomycetes,,100000000005,147538
+80,Saccharomycetales,,4892,100000000006
+81,Pezizomycotina,,147538,100000000006
+82,Schizosaccharomyces pombe,SCHPO,284812,4895
+83,Schizosaccharomyces japonicus,SCHJY,402676,4895
+84,Pezizomycotina-Saccharomycotina,,100000000006,4890
+85,Schizosaccharomyces,,4895,4890
+86,Cryptococcus neoformans,CRYNJ,214684,5204
+87,Ustilago maydis,USTMA,237631,5204
+88,Puccinia graminis,PUCGT,418459,5204
+89,Ascomycota,,4890,451864
+90,Basidiomycota,,5204,451864
+91,Dikarya,,451864,4751
+92,Batrachochytrium dendrobatidis,BATDJ,684364,4751
+93,Metazoa-Choanoflagellida,,100000000007,33154
+94,Fungi,,4751,33154
+95,Dictyostelium discoideum,DICDI,44689,5782
+96,Dictyostelium purpureum,DICPU,5786,5782
+97,Entamoeba histolytica,ENTHI,5759,554915
+98,Dictyostelium,,5782,554915
+99,Opisthokonts,,33154,100000000019
+100,Amoebozoa,,554915,100000000019
+101,Leishmania major,LEIMA,5664,5654
+102,Trypanosoma brucei,TRYB2,185431,5654
+103,Giardia intestinalis,GIAIC,184922,100000000008
+104,Trichomonas vaginalis,TRIVA,5722,100000000008
+105,Trypanosomatidae,,5654,100000000018
+106,Fornicata-Parabasalids,,100000000008,100000000018
+107,Plasmodium falciparum,PLAF7,36329,33630
+108,Paramecium tetraurelia,PARTE,5888,33630
+109,Thalassiosira pseudonana,THAPS,35128,33634
+110,Phytophthora ramorum,PHYRM,164328,33634
+111,Alveolata,,33630,100000000017
+112,Stramenopiles,,33634,100000000017
+113,Sorghum bicolor,SORBI,4558,147429
+114,Zea mays,MAIZE,4577,147429
+115,Setaria italica,SETIT,4555,147369
+116,Andropogoneae,,147429,147369
+117,Hordeum vulgare subsp. vulgare,HORVV,112509,147389
+118,Triticum aestivum,WHEAT,4565,147389
+119,Brachypodium distachyon,BRADI,15368,147368
+120,Triticeae,,147389,147368
+121,Oryza sativa,ORYSJ,39947,359160
+122,Pooideae,,147368,359160
+123,Panicoideae,,147369,4479
+124,BEP_clade,,359160,4479
+125,Musa acuminata subsp. malaccensis,MUSAM,214687,4734
+126,Poaceae,,4479,4734
+127,Zostera marina,ZOSMR,29655,4447
+128,commelinids,,4734,4447
+129,Helianthus annuus,HELAN,4232,4210
+130,Lactuca sativa,LACSA,4236,4210
+131,Solanum tuberosum,SOLTU,4113,4107
+132,Solanum lycopersicum,SOLLC,4081,4107
+133,Capsicum annuum,CAPAN,4072,424551
+134,Solanum,,4107,424551
+135,Solanoideae,,424551,4070
+136,Nicotiana tabacum,TOBAC,4097,4070
+137,Erythranthe guttata,ERYGU,4155,91888
+138,Solanaceae,,4070,91888
+139,Asteraceae,,4210,71274
+140,lamiids,,91888,71274
+141,Spinacia oleracea,SPIOL,3562,100000000015
+142,asterids,,71274,100000000015
+143,Brassica napus,BRANA,3708,3705
+144,Brassica rapa subsp. pekinensis,BRARP,51351,3705
+145,Brassica,,3705,3700
+146,Arabidopsis thaliana,ARATH,3702,3700
+147,Gossypium hirsutum,GOSHI,3635,3629
+148,Theobroma cacao,THECC,3641,3629
+149,Brassicaceae,,3700,100000000009
+150,Malvaceae,,3629,100000000009
+151,Brassicales-Malvales,,100000000009,100000000010
+152,Citrus sinensis,CITSI,2711,100000000010
+153,Eucalyptus grandis,EUCGR,71139,91836
+154,Brassicales-Malvales-Sapindales,,100000000010,91836
+155,Manihot esculenta,MANES,3983,3977
+156,Ricinus communis,RICCO,3988,3977
+157,Populus trichocarpa,POPTR,3694,3646
+158,Euphorbiaceae,,3977,3646
+159,Glycine max,SOYBN,3847,3814
+160,Medicago truncatula,MEDTR,3880,3814
+161,Juglans regia,JUGRE,51240,100000000011
+162,Cucumis sativus,CUCSA,3659,100000000011
+163,Cucurbitales-Fagales,,100000000011,100000000012
+164,Prunus persica,PRUPE,3760,100000000012
+165,Papilionoideae,,3814,100000000013
+166,Cucurbitales-Rosales,,100000000012,100000000013
+167,Malpighiales,,3646,91835
+168,Fabales-Rosales,,100000000013,91835
+169,malvids,,91836,100000000014
+170,fabids,,91835,100000000014
+171,Vitis vinifera,VITVI,29760,71275
+172,eurosids,,100000000014,71275
+173,Caryophyllales-asterids,,100000000015,1437201
+174,rosids,,71275,1437201
+175,Nelumbo nucifera,NELNU,4432,71240
+176,Pentapetalae,,1437201,71240
+177,Liliopsida,,4447,1437183
+178,eudicotyledons,,71240,1437183
+179,Amborella trichopoda,AMBTC,13333,3398
+180,Mesangiosperma,,1437183,3398
+181,Magnoliophyta,,3398,58023
+182,Selaginella moellendorffii,SELML,88036,58023
+183,Tracheophyta,,58023,100000000016
+184,Physcomitrella patens,PHYPA,3218,100000000016
+185,Bryophyta-Tracheophyta,,100000000016,3193
+186,Marchantia polymorpha,MARPO,3197,3193
+187,Embryophyta,,3193,35493
+188,Klebsormidium nitens,KLENI,105231,35493
+189,Chlamydomonas reinhardtii,CHLRE,3055,33090
+190,Streptophyta,,35493,33090
+191,Alveolata-Stramenopiles,,100000000017,2698737
+192,Viridiplantae,,33090,2698737
+193,Excavates,,100000000018,2759
+194,SAR/HA_supergroup,,2698737,2759
+195,Unikonts,,100000000019,2759
+196,Bikonts,,0,2759
+197,Sulfolobus solfataricus,SACS2,273057,183924
+198,Pyrobaculum aerophilum,PYRAE,178306,183924
+199,Methanosarcina acetivorans,METAC,188937,28890
+200,Methanocaldococcus jannaschii,METJA,243232,28890
+201,Halobacterium salinarum,HALSA,64091,28890
+202,Thermococcus kodakaraensis,THEKO,69014,28890
+203,Nitrosopumilus maritimus,NITMS,436308,2157
+204,Korarchaeum cryptofilum,KORCO,374847,2157
+205,Thermoprotei,,183924,2157
+206,Euryarchaeota,,28890,2157
+207,Eukaryota,,2759,100000000023
+208,Archaea,,2157,100000000023
+209,Streptomyces coelicolor,STRCO,100226,2037
+210,Mycobacterium tuberculosis,MYCTU,83332,2037
+211,Chloroflexus aurantiacus,CHLAA,324602,100000000021
+212,Actinomycetales,,2037,100000000021
+213,Bacillus subtilis,BACSU,224308,1386
+214,Bacillus cereus,BACCR,226900,1386
+215,Staphylococcus aureus,STAA8,93061,1385
+216,Listeria monocytogenes,LISMO,169963,1385
+217,Bacillus,,1386,1385
+218,Streptococcus pneumoniae,STRR6,171101,91061
+219,Bacillales,,1385,91061
+220,Clostridium botulinum,CLOBH,441771,1239
+221,Bacilli,,91061,1239
+222,mycoplasma genitalium,MYCGE,243273,100000000022
+223,Firmicutes,,1239,100000000022
+224,Chloroflexi-Actinobacteria,,100000000021,1783272
+225,Firmicutes-Tenericutes,,100000000022,1783272
+226,Gloeobacter violaceus,GLOVI,251221,1117
+227,Synechocystis,SYNY3,1111708,1117
+228,Chlamydia trachomatis,CHLTR,272561,1783257
+229,Rhodopirellula baltica,RHOBA,243090,1783257
+230,Salmonella typhimurium,SALTY,99287,543
+231,Yersinia pestis,YERPE,632,543
+232,Escherichia coli,ECOLI,83333,543
+233,Coxiella burnetii,COXBU,227377,1236
+234,Haemophilus influenzae,HAEIN,71421,1236
+235,Shewanella oneidensis,SHEON,211586,1236
+236,Vibrio cholerae,VIBCH,243277,1236
+237,Xanthomonas campestris,XANCP,190485,1236
+238,Pseudomonas aeruginosa,PSEAE,208964,1236
+239,Enterobacteriaceae,,543,1236
+240,Helicobacter pylori,HELPY,85962,1224
+241,Neisseria meningitidis serogroup b,NEIMB,122586,1224
+242,Geobacter sulfurreducens,GEOSL,243231,1224
+243,Bradyrhizobium diazoefficiens,BRADU,224911,1224
+244,Gammaproteobacteria,,1236,1224
+245,Terrabacteria,,1783272,2
+246,Thermotoga maritima,THEMA,243274,2
+247,Deinococcus radiodurans,DEIRA,243230,2
+248,Cyanobacteria,,1117,2
+249,Leptospira interrogans,LEPIN,189518,2
+250,Bacteroides thetaiotaomicron,BACTN,226186,2
+251,PVC_group,,1783257,2
+252,Aquifex aeolicus,AQUAE,224324,2
+253,Thermodesulfovibrio yellowstonii,THEYD,289376,2
+254,Dictyoglomus turgidum,DICTD,515635,2
+255,Fusobacterium nucleatum,FUSNN,190304,2
+256,Proteobacteria,,1224,2
+257,Archaea-Eukaryota,,100000000023,1
+258,Eubacteria,,2,1
+259,LUCA,,1,NA
